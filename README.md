@@ -1,5 +1,5 @@
 # This repository contains a Task which is, Designing a Database for ZenClass Programme. 
-<h2>ZenClass Database has seven different collections. Which are:</h2><br />
+<h2>ZenClass Database has seven different collections. <br />Which are:</h2>
 <ul>
   <li>Attendance</li>
   <li>Codekata</li>
